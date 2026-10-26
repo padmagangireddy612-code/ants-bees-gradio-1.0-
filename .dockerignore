@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.git/
+.env
+.env.*
+!.env.example
+data/
+.ipynb_checkpoints/
+Example2_AntsnBees_Pytorch.ipynb
+example2_antsnbees_pytorch.py
